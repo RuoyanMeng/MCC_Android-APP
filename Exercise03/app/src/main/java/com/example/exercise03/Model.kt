@@ -1,6 +1,9 @@
 package com.example.exercise03
 
-class Model{
+import java.io.Serializable
+
+
+class Model {
     lateinit var photo:String
     lateinit var author:String
 
